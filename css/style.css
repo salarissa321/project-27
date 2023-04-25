@@ -3,7 +3,7 @@
 body{
     font-weight: 400;
     color: #504c89;
-    font-family: "Open Sans",sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -270,4 +270,43 @@ background-color: transparent;
 
 .myfoto{
     margin-left: 20px;
+}
+
+.mytitel{
+    margin: 0;
+    margin-bottom: 38px;
+    color: #ff8a00;
+    font-size: 24px;
+line-height: 28px;
+margin-top: -9px;
+font-weight: 600;
+font-family: "Josefin Sans",sans-serif;
+text-align: center;
+}
+
+.mysentence{
+    color: #3b368c;
+    font-family: "Josefin Sans",sans-serif;
+    margin: 0;
+    font-size: 54px;
+line-height: 64px;
+margin-top: -20px;
+font-weight: 700;
+margin-bottom: 24px;
+text-align: center;
+
+}
+
+.mysatz{
+    margin-bottom: -7px !important;
+    margin-top: -12px;
+    font-size: 18px;
+color: #504c89;
+line-height: 28px;
+font-family: "Open Sans",sans-serif;
+text-align: center;
+}
+
+.mybild{
+    margin-left: 200px;
 }
