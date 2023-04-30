@@ -310,3 +310,95 @@ text-align: center;
 .mybild{
     margin-left: 200px;
 }
+
+.mypicture{
+
+}
+
+.mydiv{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.myschrift{
+margin-bottom: 38px;
+color: #ff8a00;
+font-size: 24px;
+line-height: 28px;
+margin-top: -9px;
+font-weight: 600;
+margin: 0;
+font-family: "Josefin Sans",sans-serif; 
+}
+
+.myheader{
+margin-bottom: 24px;
+font-weight: 700;
+font-size: 54px;
+line-height: 64px;
+margin-top: -20px;
+margin: 0;
+color: #3b368c;
+font-family: "Josefin Sans",sans-serif;
+text-align: left;
+}
+
+.myschreiben{
+margin-bottom: -7px !important;
+margin-top: -12px;
+text-align: left;
+font-size: 18px;
+color: #504c89;
+line-height: 28px;
+font-family: "Open Sans",sans-serif;
+font-weight: 400;
+}
+
+.myunorderlist{
+    margin-bottom: 35px;
+}
+
+
+.mylist{
+padding-top: 10px;
+margin-top: 20px;
+display: inline-block;
+list-style: none;
+font-weight: 600;
+color: #3b368c;
+width: 100%;
+max-width: 285px;
+padding-left: 30px;
+position: relative;
+margin-bottom: 3px;
+}
+
+.mylist::before{
+    position: absolute;
+    content: "\f00c";
+    left: 0;
+    top: 0;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    color: #3b368c;
+    font-size: 12px;
+    box-sizing: border-box;
+    padding-top: 15px;
+}
+
+.mybtn1{
+    border-radius: 25px;
+    font-size: 16px;
+font-weight: 600;
+text-transform: capitalize;
+padding: 11px 34px;
+color: #3b368c;
+border: 1px solid #d4cff4;
+text-decoration: none;
+margin-left: 90px;
+display: inline-block;
+background-color: transparent;
+margin-left: 20px; 
+}
+
+
